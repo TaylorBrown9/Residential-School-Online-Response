@@ -6,7 +6,8 @@ Orange Shirt Day is something that may be impacting the amount of searches on th
 The data that I found using Google Trends on the amount of searches for Orange Shirt Day in Canada is as follows,,,
 Category: All categories	
 	
-Month	orange shirt day: (Canada)
+Month,	orange shirt day: (Canada)
+
 Jan-13	0
 
 Feb-13	<1
@@ -162,3 +163,4 @@ Apr-19	2
 May-19	1
 
 Jun-19	1
+
